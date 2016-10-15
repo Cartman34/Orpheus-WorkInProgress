@@ -1,15 +1,9 @@
 {
-	"name" : "orpheus/orpheus-webtools",
-	"description" : "Orpheus WebTools",
+	"name" : "orpheus/orpheus-workinprogress",
+	"description" : "Orpheus Work In Progress",
 	"keywords" : [
 		"orpheus",
-		"web",
-		"tools",
-		"generator",
-		"password",
-		"slug",
-		"email",
-		"configuration"
+		"wip"
 	],
 	"autoload" : {
 		"psr-4" : {
